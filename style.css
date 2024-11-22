@@ -1,1 +1,67 @@
+.body{
+    padding: 16px;
+    margin: 0%;
+}
 
+.cabeçalho{
+
+    background-color: black;
+    margin: 5%;
+    padding: 10px;
+    text-align: center;
+    color: blueviolet;
+}
+
+    .informações{
+        background-color: aliceblue;
+        padding: 10px;
+        margin: 5%;
+        text-align: center;
+    }
+
+    .informações-titulo{
+        text-align: center;
+
+    }
+
+    .informações texto{
+        text-align: justify;
+    }
+
+    .informação-titulo{
+        text-align: center;
+    }
+
+    .informações-texto{
+        text-align: center;
+    }
+
+    .informações2titulo2{
+        text-align: center;
+    }
+
+    .informações2texto2{
+        text-align: center;
+    }
+
+    .informaçoes-2{
+        padding: 10px;
+        margin: 5%;
+    }
+
+    
+
+    .informações2texto2{
+        text-align: justify;
+        padding: 10px;
+        margin: 5%;
+
+
+    }
+
+    .rodapé{
+background-color: black;
+color: aliceblue;
+padding: 10px;
+margin: 5%;
+    }
